@@ -66,6 +66,6 @@ social:
 #email: ""
 ---
 
-Caio Caló is a rofessional with four years of experience in international consulting firms working along with major Brazilian companies and Private Equity firms on the development of data products, automated reports, business diagnostics, cost-reduction initiatives and corporate finance projects. Experienced in Healthcare, Consumer Goods, Retail, Telecom and Construction with a focus on data analysis and project management for performance improvement.
+Caio Caló is a professional with four years of experience in international consulting firms working along with major Brazilian companies and Private Equity firms on the development of data products, automated reports, business diagnostics, cost-reduction initiatives and corporate finance projects. Experienced in Healthcare, Consumer Goods, Retail, Telecom and Construction with a focus on data analysis and project management for performance improvement.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.

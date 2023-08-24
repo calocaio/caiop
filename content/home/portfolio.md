@@ -28,8 +28,8 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Machine Learning
-      tag: ML
+    - name: Python
+      tag: Python
     - name: Computer Vision
       tag: CV
     - name: NLP
