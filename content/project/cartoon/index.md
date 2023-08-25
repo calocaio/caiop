@@ -1,8 +1,8 @@
 ---
-title: Fetching data from public API
-summary: Write about your project here...
+title: Wrangling government information
+summary: Fetching data from API
 tags:
   - Python
 date: 2022-01-01
-external_link: http://github.com
+external_link: https://github.com/calocaio/seade-api-fetch
 ---

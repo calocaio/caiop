@@ -10,7 +10,7 @@ role: ''
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 👨🏾‍💻
 
 # Organizations/Affiliations
 #organizations:
@@ -44,7 +44,7 @@ bio: My interests include Data analysis, business intelligence and data engineer
 social:
   - icon: envelope
     icon_pack: fas
-    link: "mailto:caiocalo@live.org" # For a direct email link, use "mailto:test@example.org".
+    link: "mailto:caiocalo@live.com" # For a direct email link, use "mailto:test@example.org".
   - icon: linkedin
     icon_pack: fab
     link: https://linkedin.com/in/caiocalo

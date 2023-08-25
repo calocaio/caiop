@@ -3,6 +3,9 @@
 # Documentation: https://wowchemy.com/docs/getting-started/page-builder/
 widget: contact
 
+# Activate this widget? true/false
+active: false #talvez deixar true no futuro (mas precisa editar)
+
 # This file represents a page section.
 headless: true
 
