@@ -1,6 +1,6 @@
 ---
-title: Wrangling government information
-summary: Fetching data from API
+title: Wrangling São Paulo state information
+summary: Fetching data from public API
 tags:
   - Python
 date: 2022-01-01
