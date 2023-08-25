@@ -1,5 +1,5 @@
 ---
-title: Wrangling São Paulo state information
+title: Wrangling São Paulo open data
 summary: Fetching data from public API
 tags:
   - Python
